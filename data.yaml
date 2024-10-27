@@ -1,0 +1,7 @@
+Path: /content/drive/MyDrive/yolo
+train: ../data/train/images
+val: ../data/valid/images
+test: ../test_images/test/images
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']
