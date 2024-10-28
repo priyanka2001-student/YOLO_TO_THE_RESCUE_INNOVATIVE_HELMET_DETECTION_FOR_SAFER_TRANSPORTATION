@@ -1,4 +1,4 @@
-Readme file for helmet. into output section change path to output directory, change result section graphs path, change path to prediction images
+Readme file for helmet. change path to prediction images
 # YOLO to the Rescue: Innovative Helmet Detection for Safer Transportation
 
 ## Overview
@@ -65,7 +65,7 @@ To make predictions on test images, use:
 
 ### Output
 
-The predicted images will be saved in the `runs/detect/predict` directory, which can be copied to your desired output folder:
+The predicted images will be saved in the `runs/output/predict` directory, which can be copied to your desired output folder:
 
 ```bash
 !cp -r /content/runs/detect/predict /path/to/your/output_directory
@@ -77,8 +77,7 @@ Results from the training process, including loss graphs and evaluation metrics,
 
 ### Result Graphs
 
-- **Training Loss Graph**: ![Training Loss](path/to/training_loss_graph)
-- **Validation Loss Graph**: ![Validation Loss](path/to/validation_loss_graph)
+![results](https://github.com/user-attachments/assets/0abd55ae-5f95-4ebc-9909-cacebf6816c2)
 
 ### Output Predicted Images
 
