@@ -1,4 +1,3 @@
-Readme file for helmet. change path to prediction images
 # YOLO to the Rescue: Innovative Helmet Detection for Safer Transportation
 
 ## Overview
